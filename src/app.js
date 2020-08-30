@@ -133,7 +133,7 @@ export class App extends LitElement {
 					margin: 0 var(--spacing-m) 0 0;
 				}
 
-				:host([compact]) #collections {
+				:host([compact]) #collections, #main_title {
 					padding: 0 var(--spacing-l) var(--spacing-s);
 				}
 				
@@ -720,7 +720,6 @@ export class App extends LitElement {
 				</div>
 			</header>
 
-            /*title*/
 			<div id="main_title">
 			<h1 class="title1">Front-End Developer Roadmap</h1>
 			<h1 class="title2">by 이시은, 전제상, 홍시은</h1>
