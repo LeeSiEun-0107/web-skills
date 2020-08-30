@@ -105,6 +105,18 @@ export class App extends LitElement {
 				padding: var(--spacing-l) var(--spacing-xxxl);
 				}
 
+				#main_title .title1{
+				font-size: var(--font-size-xl);
+				}
+
+                #main_title .title2{
+                font-size: var(--font-size-s);
+                }
+
+                #main_title .title3{
+                font-size: var(--font-size-l);
+                }
+                
 				.collection:not(:last-child) {
 					margin: 0 0 var(--spacing-xxl);
 				}
