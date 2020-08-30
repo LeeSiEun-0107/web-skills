@@ -101,13 +101,25 @@ export class App extends LitElement {
 					padding: var(--spacing-l) var(--spacing-xxl);
 				}
 
-                #main_title{
-					padding: var(--spacing-xxxl) var(--spacing-xxxl) 0;
+                #main_title .title1{
+					padding: var(--spacing-xxxl) 0 0 var(--spacing-xxxl);
+					line-height:50%;
+					font-size: 80px;
+                }
 
+                #main_title .title2{
+                	padding: 0 0 0 var(--spacing-xxxl);
+                	font-size: 20px;
+                }
+
+                .title3{
+                    padding: var(--spacing-xxl) 0 0 var(--spacing-xxxl);
+                    font-size: 40px;
+                    line-height:200%;
                 }
 
                 :host([compact]) #main_title{
-                	padding: var(--spacing-l) 0 var(--spacing-xxl) var(--spacing-xxl) ;
+                	padding: 0 0 0 0 ;
 
                 }
 
@@ -734,7 +746,7 @@ export class App extends LitElement {
 			<div id="main_title">
 			<h1 class="title1">Front-End Developer Roadmap</h1>
 			<h1 class="title2">by 이시은, 전제상, 홍시은</h1>
-			<h1 class="title3">What We Do?</h1>
+			<h1 class="title3">What They Do?</h1>
 			</div>
 
 			<main id="collections">

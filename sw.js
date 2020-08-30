@@ -42,6 +42,7 @@ const URLS_TO_CACHE = [
 	"src/styles/shared.js",
 	"src/styles/global.css",
 	"web_modules/web-dialog.js",
+	"src/data/frontend-info.js"
 ];
 
 const BLACK_LISTED_REQUEST_PATHS = [
