@@ -89,7 +89,7 @@ export class App extends LitElement {
 					padding: var(--spacing-m) var(--spacing-l);
 				}
 				
-				#collections,#main_title{
+				#collections{
 					padding: var(--spacing-xxxl) var(--spacing-xxxl) 0;
 					display: flex;
     			    flex-direction: column;
@@ -97,7 +97,7 @@ export class App extends LitElement {
     			    min-width: min-content;
 				}
 
-				#footer{
+				#footer,#main_title{
 					padding: var(--spacing-l) var(--spacing-xxxl);
 				}
 
