@@ -720,7 +720,11 @@ export class App extends LitElement {
 				</div>
 			</header>
 
-			<div id="main_title">Front-End Developer Roadmap</div>
+			<div id="main_title">
+			<h1>Front-End Developer Roadmap</h1>
+			<h1>by 이시은, 전제상, 홍시은</h1>
+			<h1>What We Do?</h1>
+			</div>
 
 			<main id="collections">
 				${repeat(collections, getId, (collection, i) => html`
