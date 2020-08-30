@@ -105,17 +105,6 @@ export class App extends LitElement {
 				padding: var(--spacing-l) var(--spacing-xxxl);
 				}
 
-				#main_title .title1{
-				font-size: 50;
-				}
-
-                #main_title .title2{
-                font-size: 10;
-                }
-
-                #main_title .title3{
-                font-size: 30;
-                }
 
 				.collection:not(:last-child) {
 					margin: 0 0 var(--spacing-xxl);
