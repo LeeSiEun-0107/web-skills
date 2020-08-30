@@ -1,3 +1,4 @@
+import {developerCollection} from "./data/developer-do.js"
 import {fundamentalsCollection} from "./data/fundamentals.js";
 import {webcomponentsCollection} from "./data/web-components.js";
 import {accessibilityCollection} from "./data/accessibility.js";
@@ -16,6 +17,7 @@ import {databasesCollection} from "./data/databases.js";
  * All available collections.
  */
 export const collections = [
+    developerCollection,
 	fundamentalsCollection,
 	accessibilityCollection,
 	webcomponentsCollection,
