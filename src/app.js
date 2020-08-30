@@ -133,8 +133,12 @@ export class App extends LitElement {
 					margin: 0 var(--spacing-m) 0 0;
 				}
 
-				:host([compact]) #collections,#main_title {
+				:host([compact]) #collections {
 					padding: 0 var(--spacing-l) var(--spacing-s);
+				}
+
+				:host([compact]) #main_title{
+				padding:0;
 				}
 				
 				:host([compact]) #footer {
