@@ -10,14 +10,12 @@ import {modernCollection} from "./data/modern.js";
 import {teamCollaborationCollection} from "./data/team-collaboration.js";
 import {algorithmsCollection} from "./data/algorithms.js";
 import {designAndUXCollection} from "./data/design-and-ux.js";
-import {databasesCollection} from "./data/databases.js";
-import {frontendinfoCollection} from "./data/frontend-info.js"
+import {databasesCollection}from "./data/databases.js";
 
 /**
  * All available collections.
  */
 export const collections = [
-frontendinfoCollection,
 	fundamentalsCollection,
 	accessibilityCollection,
 	webcomponentsCollection,

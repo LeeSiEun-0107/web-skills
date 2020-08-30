@@ -1,5 +1,5 @@
 export const accessibilityCollection = {
-	name: "Accessibility",
+	name: "버전관리",
 	areas: [
 		{
 			skills: [

@@ -101,9 +101,12 @@ export class App extends LitElement {
 					padding: var(--spacing-l) var(--spacing-xxl);
 				}
 
+                #main_title{
+                }
+
                 #main_title .title1{
 					padding: var(--spacing-xxxl) 0 0 var(--spacing-xxxl);
-					line-height:50%;
+
 					font-size: 80px;
                 }
 
@@ -113,15 +116,23 @@ export class App extends LitElement {
                 }
 
                 .title3{
-                    padding: var(--spacing-xxl) 0 0 var(--spacing-xxxl);
+                    padding: 150px 0 0 var(--spacing-xxxl);
                     font-size: 40px;
-                    line-height:200%;
                 }
 
-                :host([compact]) #main_title{
-                	padding: 0 0 0 0 ;
-
+                .info1{
+                    padding: var(--spacing-xxl) var(--spacing-xxxl) 0 var(--spacing-xxxl);
+                    font-size: 25px;
                 }
+
+                .title4{
+                    padding: 80px 0 0 var(--spacing-xxxl);
+                    font-size: 40px;
+                }
+
+
+
+
 
 				.collection:not(:last-child) {
 					margin: 0 0 var(--spacing-xxl);
@@ -747,6 +758,8 @@ export class App extends LitElement {
 			<h1 class="title1">Front-End Developer Roadmap</h1>
 			<h1 class="title2">by 이시은, 전제상, 홍시은</h1>
 			<h1 class="title3">What They Do?</h1>
+            <h1 class="info1">프론트엔드 개발자 소개 요약해서 적어주시면 될것 같아요</h1>
+            <h1 class="title4">FE Study RoadMap</h1>
 			</div>
 
 			<main id="collections">
