@@ -89,16 +89,20 @@ export class App extends LitElement {
 					padding: var(--spacing-m) var(--spacing-l);
 				}
 				
-				#collections, #main_title{
+				#collections{
 					padding: var(--spacing-xxxl) var(--spacing-xxxl) 0;
 					display: flex;
     			    flex-direction: column;
     			    align-items: flex-start;
     			    min-width: min-content;
 				}
-				
+
 				#footer {
 					padding: var(--spacing-l) var(--spacing-xxxl);
+				}
+
+				#main_title{
+				padding: var(--spacing-l) var(--spacing-xxxl);
 				}
 
 				.collection:not(:last-child) {
@@ -137,10 +141,7 @@ export class App extends LitElement {
 					padding: 0 var(--spacing-l) var(--spacing-s);
 				}
 
-				:host([compact]) #main_title{
-				padding:0;
-				}
-				
+
 				:host([compact]) #footer {
 					padding: var(--spacing-xxl) var(--spacing-l) var(--spacing-l);
 				}
