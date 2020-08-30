@@ -105,18 +105,17 @@ export class App extends LitElement {
 					margin: 0 0 var(--spacing-xxl);
 				}
 				
-				#header, #footer, #skip-navigation,#main_title {
+				#header, #footer, #skip-navigation {
 					justify-content: space-between;
 				}
 
-				#header, #header > div, #footer, #footer > div, #skip-navigation, #skip-navigation > div, #main_title, #main_title > div {
+				#header, #header > div, #footer, #footer > div, #skip-navigation, #skip-navigation > div {
 					display: flex;
 					align-items: center;
 				}
 				
 				#header > div > :not(:last-child),
-				#footer > div > :not(:last-child),
-				#main_title > div > : not(:last-child){
+				#footer > div > :not(:last-child) {
 					margin: 0 var(--spacing-l) 0 0;
 				}
 				
@@ -139,7 +138,7 @@ export class App extends LitElement {
 				}
 
 
-				:host([compact]) #footer ,#main_title{
+				:host([compact]) #footer {
 					padding: var(--spacing-xxl) var(--spacing-l) var(--spacing-l);
 				}
 
