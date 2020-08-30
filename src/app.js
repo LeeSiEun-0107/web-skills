@@ -97,14 +97,9 @@ export class App extends LitElement {
     			    min-width: min-content;
 				}
 
-				#footer {
+				#footer,#main_title {
 					padding: var(--spacing-l) var(--spacing-xxxl);
 				}
-
-				#main_title{
-				padding: var(--spacing-l) var(--spacing-xxxl);
-				}
-
 
 				.collection:not(:last-child) {
 					margin: 0 0 var(--spacing-xxl);
