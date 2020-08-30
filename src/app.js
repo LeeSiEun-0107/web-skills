@@ -719,6 +719,9 @@ export class App extends LitElement {
 					</a>
 				</div>
 			</header>
+
+			<div id="main_title">Front-End Developer Roadmap</div>
+
 			<main id="collections">
 				${repeat(collections, getId, (collection, i) => html`
 					<span class="focus-anchor" data-collection="${getId(collection)}" tabindex="0"></span>
