@@ -89,7 +89,7 @@ export class App extends LitElement {
 					padding: var(--spacing-m) var(--spacing-l);
 				}
 				
-				#collections {
+				#collections, #main_title{
 					padding: var(--spacing-xxxl) var(--spacing-xxxl) 0;
 					display: flex;
     			    flex-direction: column;
@@ -720,10 +720,11 @@ export class App extends LitElement {
 				</div>
 			</header>
 
+            /*title*/
 			<div id="main_title">
-			<h1>Front-End Developer Roadmap</h1>
-			<h1>by 이시은, 전제상, 홍시은</h1>
-			<h1>What We Do?</h1>
+			<h1 class="title1">Front-End Developer Roadmap</h1>
+			<h1 class="title2">by 이시은, 전제상, 홍시은</h1>
+			<h1 class="title3">What We Do?</h1>
 			</div>
 
 			<main id="collections">
