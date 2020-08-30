@@ -1,4 +1,3 @@
-import {developerCollection} from "./data/developer-do.js"//추가한거
 import {fundamentalsCollection} from "./data/fundamentals.js";
 import {webcomponentsCollection} from "./data/web-components.js";
 import {accessibilityCollection} from "./data/accessibility.js";
@@ -17,7 +16,6 @@ import {databasesCollection} from "./data/databases.js";
  * All available collections.
  */
 export const collections = [
-    developerCollection,//추가한거
 	fundamentalsCollection,
 	accessibilityCollection,
 	webcomponentsCollection,
