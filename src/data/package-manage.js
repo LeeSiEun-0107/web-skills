@@ -1,5 +1,5 @@
-export const fundamentalsCollection = {
-	name: "기본기",
+export const packagemanageCollection = {
+	name: "packagemanage",
 	areas: [
 		{
 			name: "HTML",

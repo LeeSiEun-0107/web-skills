@@ -1,6 +1,6 @@
 
-export const algorithmsCollection = {
-	name: "Algorithms & Data structures",
+export const htmlCollection = {
+	name: "html",
 	areas: [
 		{
 			name: "Data structures",

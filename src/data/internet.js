@@ -1,5 +1,5 @@
-export const accessibilityCollection = {
-	name: "버전관리",
+export const internetCollection = {
+	name: "internet",
 	areas: [
 		{
 			skills: [

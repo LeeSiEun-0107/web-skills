@@ -1,5 +1,5 @@
-export const pwaCollection = {
-	name: "Progressive Webapps",
+export const buildtoolCollection = {
+	name: "buildtool",
 	areas: [
 		{
 			name: "API's",

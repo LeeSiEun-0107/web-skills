@@ -1,5 +1,5 @@
-export const architectureCollection = {
-	name: "Architecture & paradigms",
+export const cssCollection = {
+	name: "css",
 	areas: [
 		{
 			name: "Paradigms",

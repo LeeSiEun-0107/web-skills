@@ -1,5 +1,5 @@
-export const frameworksAndLibrariesCollection = {
-	name: "Frameworks & Libraries",
+export const sccstructureCollection = {
+	name: "sccstructure",
 	areas: [
 		{
 			skills: [

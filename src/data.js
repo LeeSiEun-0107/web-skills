@@ -1,33 +1,52 @@
-import {fundamentalsCollection} from "./data/fundamentals.js";
+import {apptestCollection} from "./data/apptest.js";
+import {buildtoolCollection} from "./data/build-tool.js";
+import {cssCollection} from "./data/css.js";
+import {cssframeworkCollection} from "./data/css-framework.js";
+import {cssprocessorCollection} from "./data/css-processor.js";
+import {desktopapplicationCollection} from "./data/desktopapplication.js";
+import {frameworkCollection} from "./data/framework.js";
+import {graphqlCollection} from "./data/graphql.js";
+import {htmlCollection} from "./data/html.js";
+import {internetCollection} from "./data/internet.js";
+import {javascriptCollection} from "./data/javascript.js";
+import {mobileapplicationCollection} from "./data/mobileapplication.js";
+import {nowcssCollection} from "./data/now-css.js";
+import {packagemanageCollection} from "./data/package-manage.js";
+import {progressivewebappsCollection} from "./data/progressive-web-apps.js";
+import {sccstructureCollection} from "./data/scc-structure.js";
+import {ssrCollection} from "./data/ssr.js";
+import {staticsitegeneratorCollection} from "./data/static-site-generator.js";
+import {typeinspectionCollection} from "./data/type-inspection.js";
+import {versionmanagementCollection} from "./data/version-management.js";
+import {webassemblerCollection} from "./data/web-assembler.js";
 import {webcomponentsCollection} from "./data/web-components.js";
-import {accessibilityCollection} from "./data/accessibility.js";
-import {pwaCollection} from "./data/pwa.js";
-import {architectureCollection} from "./data/architecture-and-paradigmes.js";
-import {buildtoolsCollection} from "./data/build-tools.js";
-import {testingCollection} from "./data/testing.js";
-import {frameworksAndLibrariesCollection} from "./data/frameworks-and-libraries.js";
-import {modernCollection} from "./data/modern.js";
-import {teamCollaborationCollection} from "./data/team-collaboration.js";
-import {algorithmsCollection} from "./data/algorithms.js";
-import {designAndUXCollection} from "./data/design-and-ux.js";
-import {databasesCollection}from "./data/databases.js";
-
+import {websecurityCollection}from "./data/web-security.js";
+import {cssarchitectureCollection}from "./data/cssarchitecture.js";
 /**
  * All available collections.
  */
 export const collections = [
-	fundamentalsCollection,
-	accessibilityCollection,
+	internetCollection,
+	htmlCollection,
+	cssCollection,
+	javascriptCollection,
+	versionmanagementCollection,
+	websecurityCollection,
+	packagemanageCollection,
+	cssarchitectureCollection,
+	cssprocessorCollection,
+	buildtoolCollection,
+	frameworkCollection,
+	nowcssCollection,
 	webcomponentsCollection,
-	pwaCollection,
-	buildtoolsCollection,
-	frameworksAndLibrariesCollection,
-	testingCollection,
-	architectureCollection,
-	teamCollaborationCollection,
-	designAndUXCollection,
-	modernCollection,
-	algorithmsCollection,
-	databasesCollection,
-
+	cssframeworkCollection,
+	apptestCollection,
+	typeinspectionCollection,
+	progressivewebappsCollection,
+	ssrCollection,
+	graphqlCollection,
+	staticsitegeneratorCollection,
+	mobileapplicationCollection,
+	desktopapplicationCollection,
+	webassemblerCollection
 ];

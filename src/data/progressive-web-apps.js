@@ -1,5 +1,5 @@
-export const modernCollection = {
-	name: "The Modern Web",
+export const progressivewebappsCollection = {
+	name: "progressivewebapps",
 	areas: [
 		{
 			skills: [

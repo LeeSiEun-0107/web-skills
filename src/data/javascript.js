@@ -1,5 +1,5 @@
-export const buildtoolsCollection = {
-	name: "Build tools",
+export const javascriptCollection = {
+	name: "javascript",
 	areas: [
 		{
 			skills: [

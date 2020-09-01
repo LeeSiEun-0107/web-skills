@@ -1,5 +1,5 @@
-export const designAndUXCollection = {
-	name: "Design & UX",
+export const websecurityCollection = {
+	name: "websecurity",
 	areas: [
 		{
 			skills: [

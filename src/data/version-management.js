@@ -1,6 +1,6 @@
 
-export const databasesCollection = {
-	name: "Databases & Servers",
+export const versionmanagementCollection = {
+	name: "versionmanagement",
 	areas: [
 		{
 			name: "Databases",

@@ -1,5 +1,5 @@
-export const teamCollaborationCollection = {
-	name: "Team Collaboration",
+export const frameworkCollection = {
+	name: "framework",
 	areas: [
 		{
 			name: "Version Control",

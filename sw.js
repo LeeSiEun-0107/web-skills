@@ -26,23 +26,36 @@ const URLS_TO_CACHE = [
 	"src/atoms/icon.js",
 	"src/atoms/compact-switch.js",
 	"src/atoms/snackbar.js",
-	"src/data/accessibility.js",
-	"src/data/algorithms.js",
-	"src/data/architecture-and-paradigmes.js",
-	"src/data/build-tools.js",
-	"src/data/databases.js",
-	"src/data/design-and-ux.js",
-	"src/data/frameworks-and-libraries.js",
-	"src/data/fundamentals.js",
-	"src/data/modern.js",
-	"src/data/pwa.js",
-	"src/data/team-collaboration.js",
-	"src/data/testing.js",
-	"src/data/web-components.js",
+
+	"src/data/apptest.js",
+	"src/data/build-tool.js",
+	"src/data/css.js",
+	"src/data/css-framework.js",
+	"src/data/css-processor.js",
+	"src/data/desktopapplication.js",
+	"src/data/framework.js",
+	"src/data/graphql.js",
+	"src/data/html.js",
+	"src/data/internet.js",
+	"src/data/javascript.js",
+	"src/data/mobileapplication.js",
+	"src/data/now-css.js",
+    "src/data/package-manage.js",
+    "src/data/progressive-web-apps.js",
+    "src/data/scc-structure.js",
+    "src/data/ssr.js",
+    "src/data/static-site-generator.js",
+    "src/data/type-inspection.js",
+    "src/data/version-management.js",
+    "src/data/web-assembler.js",
+    "src/data/web-component.js",
+    "src/data/web-security.js",
+
+
+
 	"src/styles/shared.js",
 	"src/styles/global.css",
-	"web_modules/web-dialog.js",
-	"src/data/frontend-info.js"
+	"web_modules/web-dialog.js"
 ];
 
 const BLACK_LISTED_REQUEST_PATHS = [
