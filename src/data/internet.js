@@ -1,5 +1,5 @@
 export const internetCollection = {
-	name: "internet",
+	name: "internet 인터넷",
 	areas: [
 		{
 			skills: [
