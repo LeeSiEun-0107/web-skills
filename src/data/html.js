@@ -1,6 +1,6 @@
 
 export const htmlCollection = {
-	name: "html",
+	name: "html2",
 	areas: [
 		{
 			name: "Data structures",
