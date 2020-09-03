@@ -1,10 +1,10 @@
 export const internetCollection = {
-	name: "internet 인터넷",
+	name: "Internet 인터넷",
 	areas: [
 		{
 			skills: [
 				{
-					name: "The why",
+					name: "The Why",
 					description: {
 						text: "Learn what accessibility is and why it is important.",
 						links: [

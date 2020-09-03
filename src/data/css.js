@@ -1,5 +1,5 @@
 export const cssCollection = {
-	name: "css",
+	name: "Css",
 	areas: [
 		{
 			name: "Paradigms",
