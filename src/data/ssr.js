@@ -1,5 +1,5 @@
 export const ssrCollection = {
-	name: "ssr",
+	name: "ssr2",
 	areas: [
 		{
 			skills: [
