@@ -1,5 +1,6 @@
 export const apptestCollection = {
 	name: "App Test",
+	areas: [
 		{
 			skills: [
 				{
