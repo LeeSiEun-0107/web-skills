@@ -6,25 +6,18 @@ export const graphqlCollection = {
 				{
 					name: "Apollo",
 					description: {
-						text: "Graph QL : Apollo 배우기",
+						text: "Apollo 플랫폼으로 풀 스택 GraphQL 기반 앱을 빌드하는 과정 학습하기",
 						links: [
-							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
-							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
-							["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
-							["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
+							["학습 튜토리얼", "https://www.apollographql.com/docs/tutorial/introduction/?_ga=2.109545861.1048516193.1599215570-1751168835.1599215570"],
 						]
 					}
 				},
 				{
 					name: "Relay Modern",
 					description: {
-						text: "Graph QL : Relay Modern 배우기",
+						text: "Relay Classic과 비교하여 Relay Modern API에는 다음과 같은 차별화 된 기능이 있는 Relay Modern 학습하기",
 						links: [
-							["Google Devs - Web apps that talk", "https://developers.google.com/web/updates/2014/01/Web-apps-that-talk-Introduction-to-the-Speech-Synthesis-API"],
-							["MDN - window.speechSynthesis", "https://developer.mozilla.org/en-US/docs/Web/API/Window/speechSynthesis"],
-							["MDN - SpeechSynthesis", "https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis"],
-							["W3C - Web Speech API", "https://w3c.github.io/speech-api"],
-							["The Speech Synthesis API", "https://flaviocopes.com/speech-synthesis-api/"],
+							["Relay Modern 기능 알아보기", "https://relay.dev/docs/en/new-in-relay-modern"],
 						]
 					},
 				},

@@ -114,63 +114,45 @@ export const progressivewebappsCollection = {
 				{
 					name: "PRPL Pattern",
 					description: {
-						text: "PRPL Pattern 학습하기",
+						text: "push, render, Pre-cache, Lazy-load 의 약자인 PRPL 패턴 배우기",
 						links: [
-							["학습자료", "https://ddok2.github.io/2018/01/29/prpl-pattern/"],
-							["Google Devs - Let Your Content Do the Talking", "https://developers.google.com/web/updates/2011/10/Let-Your-Content-Do-the-Talking-Fullscreen-API"],
-							["David Walsh - Fullscreen API", "https://davidwalsh.name/fullscreen"],
+							["알기 쉬운 설명 보기", "https://ddok2.github.io/2018/01/29/prpl-pattern/"],
 						]
 					},
 				},
 				{
 					name: "RAIL Model",
 					description: {
-						text: "RAIL 모델 학습하기",
+						text: "성능에 대해 생각할 수있는 구조를 제공 하는 사용자 중심 성능 모델인 RAIL 모델 배우기",
 						links: [
-							["v-fonts", "https://v-fonts.com/"],
-							["MDN - Variable fonts guide", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide"],
-							["Google Devs - Introduction to variable fonts", "https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts"],
-							["Supercharged - Variable Fonts", "https://www.youtube.com/watch?v=B42rUMdcB7c"]
+							["알기 쉬운 설명 보기", "https://web.dev/rail/"],
 						]
 					}
 				},
 				{
 					name: "Performance Analysis",
 					description: {
-						text: "성능 분석 배우기",
+						text: "Progressive Web Apps의 성능 분석 법 배우기",
 						links: [
-							["Google Devs - Introduction to HTTP/2", "https://developers.google.com/web/fundamentals/performance/http2/"],
-							["Wikipedia - HTTP/2", "https://en.wikipedia.org/wiki/HTTP/2"],
-							["HTTP/2: the difference between HTTP/1.1", "https://medium.com/@factoryhr/http-2-the-difference-between-http-1-1-benefits-and-how-to-use-it-38094fa0e95b"],
-							["HTTP/2 - FAQ", "https://http2.github.io/faq/"],
-							["Why turning on HTTP/2 was a mistake", "https://www.lucidchart.com/techblog/2019/04/10/why-turning-on-http2-was-a-mistake/"],
+							["스터디 자료", "https://kyu.io/pinterest-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EC%8B%9C%EB%B8%8C-%EC%9B%B9-%EC%95%B1-%EC%84%B1%EB%8A%A5-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%8A%A4%ED%84%B0%EB%94%94/"],
 						]
 					},
 				},
 				{
 					name: "Using Lighthouse",
 					description: {
-						text: "Lighthouse 사용법 배우기",
+						text: "Lighthouse는 웹 앱의 품질을 개선하는 오픈 소스 자동화 도구인 LightHouse를 사용하는 법 배우기",
 						links: [
-							["MDN - Payment Request API", "https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API"],
-							["Codelabs - Payment Request API", "https://developers.google.com/web/fundamentals/codelabs/payment-request-api"],
-							["What Web Can Do Today - Payments", "https://whatwebcando.today/payments.html"],
-							["W3C - Payment Request API", "https://www.w3.org/TR/payment-request/"],
-							["Google Devs - Introduction to the Payment Request API", "https://developers.google.com/web/ilt/pwa/introduction-to-the-payment-request-api"],
+							["기초 자료", "https://developers.google.com/web/tools/lighthouse?hl=ko"],
 						]
 					},
 				},
 				{
 					name: "Using Devtools",
 					description: {
-						text: "개발도구 사용법 배우기",
+						text: "Chrome DevTools를 이용하면 Application 패널을 사용하여 웹 앱 매니페스트, 서비스 워커 및 서비스 워커 캐시를 검사, 수정 및 디버그할 수 있다.",
 						links: [
-							["MDN - Using the Web Audio API", "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API"],
-							["MDN - Web Audio API", "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API"],
-							["W3C - Web Audio API", "https://www.w3.org/TR/webaudio/"],
-							["HTML5 Rocks - Getting Started with Web Audio API", "https://www.html5rocks.com/en/tutorials/webaudio/intro/"],
-							["All You Need to Know About the Web Audio API", "https://medium.com/better-programming/all-you-need-to-know-about-the-web-audio-api-3df170559378"],
-							["Alligator - Your First Steps with the Web Audio API", "https://alligator.io/js/first-steps-web-audio-api/"],
+							["Chrome DevTools 기초 지식", "https://developers.google.com/web/tools/chrome-devtools?hl=ko"],
 						]
 					}
 				},

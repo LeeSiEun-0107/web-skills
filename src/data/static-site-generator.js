@@ -8,23 +8,16 @@ export const staticsitegeneratorCollection = {
 					description: {
 						text: "Next.js 배우기",
 						links: [
-							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
-							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
-							["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
-							["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
+							["Next.js정의 및 기초", "https://velopert.com/3293"],
 						]
 					}
 					},
 				{
 					name: "GatsbyJS",
 					description: {
-						text: "GatsbyJS 배우기",
+						text: "웹 사이트와 앱을 만들기위한 React 기반 오픈 소스 프레임 워크인 GatsbyJS 학습하기",
 						links: [
-							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
-							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
-							["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
-							["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
-						]
+							["설명 및 구축하기", "https://www.gatsbyjs.com/#gatsby-is-fast"],]
 					}
 					},
 				{
@@ -32,10 +25,7 @@ export const staticsitegeneratorCollection = {
 					description: {
 						text: "Nuxt.js 배우기",
 						links: [
-							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
-							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
-							["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
-							["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
+							["설명 및 시작하기", "https://ko.nuxtjs.org/"],
 						]
 					}
 					},
@@ -44,10 +34,7 @@ export const staticsitegeneratorCollection = {
 					description: {
 						text: "Vuepress 배우기",
 						links: [
-							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
-							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
-							["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
-							["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
+							["Vuepress 설명과 실습자료", "https://limdongjin.github.io/vuejs/vuepress/"],
 						]
 					}
 					},
@@ -56,22 +43,16 @@ export const staticsitegeneratorCollection = {
 					description: {
 						text: "Jekyll 배우기",
 						links: [
-							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
-							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
-							["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
-							["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
+							["Jekyll을 이용해 github 블로그 만들기 ", "실습 http://labs.brandi.co.kr/2018/05/14/chunbs.html"],
 						]
 					}
 					},
 				{
 					name: "Hugo",
 					description: {
-						text: "Hugo 배우기",
+						text: "Static website를 만들기 좋은 Hugo에 대해 배우기",
 						links: [
-							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
-							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
-							["Experimenting with the Streams API", "https://deanhume.com/experimenting-with-the-streams-api/"],
-							["WHATWG - Streams", "https://streams.spec.whatwg.org/"],
+							["블로그 제작 실습하기", "https://blog.lulab.net/infra/install-hugo-and-configure-for-your-blog/"],
 						]
 					}
 					},

@@ -7,7 +7,7 @@ export const ssrCollection = {
      				{
      					name: "Next.js",
      					description: {
-     						text: "Server-Side-Rendering : Next.js 배우기",
+     						text: "Universal 리액트 어플리케이션의 서버렌더링을 쉽게 구현 할 수 있게 도와주는 간단한 프레임워크인 Next.js 배우기",
      						links: [
      							["MDN", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
      							["부스트코스","https://www.edwith.org/boostcourse-web/lecture/16741/"],
@@ -28,15 +28,9 @@ export const ssrCollection = {
      				{
      					name: "Universal",
      					description: {
-     						text: "Server-Side-Rendering : Universal 배우기",
+     						text: "Angular에서 Static HTML 페이지를 Template 엔진에 랜더링하며 브라우저의 도움 없이 DOM, XMLHttpRequest 등을 서버에서 처리 할 수 있는 Angular에서 SSR(Server Side rendering) 배우기",
      						links: [
-     							["MDN - Detecting device orientation", "https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation"],
-     							["W3C - DeviceOrientation Event Specification", "https://www.w3.org/TR/orientation-event/"],
-     							["HTML5 Rocks - Introduction", "https://www.html5rocks.com/en/tutorials/device/orientation/index.html"],
-     							["What Web Can Do Today - Device Position", "https://whatwebcando.today/device-position.html"],
-     							["W3C - Generic Sensor API", "https://www.w3.org/TR/generic-sensor/"],
-     							["MDN - Sensor APIs", "https://developer.mozilla.org/en-US/docs/Web/API/Sensor_APIs"],
-     							["Google Devs - Sensors For The Web", "https://developers.google.com/web/updates/2017/09/sensors-for-the-web"],
+     							["따라하며 공부하기", "https://github.com/angular/angular-cli/wiki/stories-universal-rendering#angular-universal-integration"],
      						]
      					},
      				},
@@ -53,15 +47,9 @@ export const ssrCollection = {
                  				{
                  					name: "Nuxt.js",
                  					description: {
-                 						text: "Server-Side-Rendering : Nuxt.js 배우기",
+                 						text: "현대 웹 애플리케이션을 만들기 위해 Vue.js를 기반으로 하는 진보적인 프레임워크인 Nuxt 배우기",
                  						links: [
-                 							["MDN - Detecting device orientation", "https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation"],
-                 							["W3C - DeviceOrientation Event Specification", "https://www.w3.org/TR/orientation-event/"],
-                 							["HTML5 Rocks - Introduction", "https://www.html5rocks.com/en/tutorials/device/orientation/index.html"],
-                 							["What Web Can Do Today - Device Position", "https://whatwebcando.today/device-position.html"],
-                 							["W3C - Generic Sensor API", "https://www.w3.org/TR/generic-sensor/"],
-                 							["MDN - Sensor APIs", "https://developer.mozilla.org/en-US/docs/Web/API/Sensor_APIs"],
-                 							["Google Devs - Sensors For The Web", "https://developers.google.com/web/updates/2017/09/sensors-for-the-web"],
+                 							["NUXT JS 소개 및 홈페이지", "https://ko.nuxtjs.org/guide/"],
                  						]
                  					},
                  				},
