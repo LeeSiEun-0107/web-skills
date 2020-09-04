@@ -6,7 +6,7 @@ export const desktopapplicationCollection = {
 				{
 					name: "Electron",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "Electron 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],

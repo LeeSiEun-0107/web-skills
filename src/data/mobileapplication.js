@@ -6,7 +6,7 @@ export const mobileapplicationCollection = {
 				{
 					name: "React Native",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "React Native 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
@@ -18,7 +18,7 @@ export const mobileapplicationCollection = {
 				{
 					name: "NativeScript",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "NativeScript 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
@@ -30,7 +30,7 @@ export const mobileapplicationCollection = {
 				{
 					name: "Flutter",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "Flutter 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
@@ -42,7 +42,7 @@ export const mobileapplicationCollection = {
 				{
 					name: "Ionic",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "Ionic 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],

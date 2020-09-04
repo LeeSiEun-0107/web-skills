@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="73px" height="73px" viewBox="0 0 73 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>static-site-generator/vuepress</title>
+    <title>static-site-generator/nuxtjs</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="static-site-generator/vuepress" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="static-site-generator/nuxtjs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="container" transform="translate(2.000000, 2.000000)" fill-rule="nonzero">
             <rect id="mask" stroke="#93680B" stroke-width="2" fill="#FFC823" x="-1" y="-1" width="71" height="71" rx="14"></rect>
             <path d="M14,3.27720645e-15 L15.1769479,3.55271368e-15 L69,53.8980361 L69,55 C69,62.7319865 62.7319865,69 55,69 L14,69 C6.2680135,69 9.46895252e-16,62.7319865 0,55 L-3.55271368e-15,14 C-4.49960893e-15,6.2680135 6.2680135,1.42034288e-15 14,0 Z" id="mask" fill="#DBA51A"></path>

@@ -7,7 +7,7 @@ export const ssrCollection = {
      				{
      					name: "Next.js",
      					description: {
-     						text: "PWA에서 사용되는 다양한 웹 API 배우기",
+     						text: "Server-Side-Rendering : Next.js 배우기",
      						links: [
      							["MDN", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
      							["부스트코스","https://www.edwith.org/boostcourse-web/lecture/16741/"],
@@ -28,7 +28,7 @@ export const ssrCollection = {
      				{
      					name: "Universal",
      					description: {
-     						text: "계산, 측정, 성능 향상",
+     						text: "Server-Side-Rendering : Universal 배우기",
      						links: [
      							["MDN - Detecting device orientation", "https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation"],
      							["W3C - DeviceOrientation Event Specification", "https://www.w3.org/TR/orientation-event/"],
@@ -48,12 +48,12 @@ export const ssrCollection = {
      			]
      		},
      		{
-     		name:"vue.js",
+     		name:"Vue.js",
                  				skills : [
                  				{
                  					name: "Nuxt.js",
                  					description: {
-                 						text: "계산, 측정, 성능 향상",
+                 						text: "Server-Side-Rendering : Nuxt.js 배우기",
                  						links: [
                  							["MDN - Detecting device orientation", "https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation"],
                  							["W3C - DeviceOrientation Event Specification", "https://www.w3.org/TR/orientation-event/"],

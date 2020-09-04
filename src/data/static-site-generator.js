@@ -6,7 +6,7 @@ export const staticsitegeneratorCollection = {
 				{
 					name: "Next.js",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "Next.js 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
@@ -18,7 +18,7 @@ export const staticsitegeneratorCollection = {
 				{
 					name: "GatsbyJS",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "GatsbyJS 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
@@ -30,7 +30,7 @@ export const staticsitegeneratorCollection = {
 				{
 					name: "Nuxt.js",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "Nuxt.js 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
@@ -42,7 +42,7 @@ export const staticsitegeneratorCollection = {
 				{
 					name: "Vuepress",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "Vuepress 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
@@ -54,7 +54,7 @@ export const staticsitegeneratorCollection = {
 				{
 					name: "Jekyll",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "Jekyll 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
@@ -66,7 +66,7 @@ export const staticsitegeneratorCollection = {
 				{
 					name: "Hugo",
 					description: {
-						text: "Learn about streams and how they can help you effeciently transporting data.",
+						text: "Hugo 배우기",
 						links: [
 							["MDN - Streams", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API"],
 							["MDN - Streams API concepts", "https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Concepts"],
