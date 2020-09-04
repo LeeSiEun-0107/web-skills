@@ -90,7 +90,7 @@ export class App extends LitElement {
 				}
 				
 				#collections{
-					padding: var(--spacing-xxxl) var(--spacing-xxxl) 0;
+					padding: var(--spacing-xxxl) 0 0;
 					display: flex;
     			    flex-direction: column;
     			    align-items: flex-start;
