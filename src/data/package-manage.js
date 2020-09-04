@@ -1,5 +1,5 @@
 export const packagemanageCollection = {
-	name: "packagemanage",
+	name: "package management",
 	areas: [
 		{
 			skills: [
