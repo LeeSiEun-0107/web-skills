@@ -1,30 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="73px" height="73px" viewBox="0 0 73 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>mobile-applications/flutter</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="mobile-applications/flutter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="container" transform="translate(2.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#03232E" stroke-width="2">
-            <rect id="mask" x="-1" y="-1" width="71" height="71" rx="14"></rect>
-        </g>
-        <g id="window" transform="translate(14.000000, 17.000000)" fill-rule="nonzero">
-            <polygon id="Shape" fill="#B4D2D7" points="22.5 0 20.7408142 12.9714203 45 11.2122345 45 0"></polygon>
-            <polygon id="Shape" fill="#E1EBF0" points="22.5 0 0 0 0 11.2122345 22.5 12.9714203"></polygon>
-            <polygon id="Shape" fill="#FF3939" points="4.20467379 4.28775785 7.00756075 4.28775785 7.00756075 6.9244766 4.20467379 6.9244766"></polygon>
-            <polygon id="Shape" fill="#FF9F22" points="9.81079102 4.28775785 12.6140213 4.28775785 12.6140213 6.9244766 9.81079102 6.9244766"></polygon>
-            <polygon id="Shape" fill="#15CCC2" points="15.4169082 4.28775785 18.2201386 4.28775785 18.2201386 6.9244766 15.4169082 6.9244766"></polygon>
-            <polygon id="Shape" fill="#03232E" points="22.5 39.2428208 45 39.2428208 45 11.2122345 22.5 11.2122345 20.7408142 25.2276993"></polygon>
-            <polygon id="Shape" fill="#07485E" points="0 11.2122345 22.5 11.2122345 22.5 39.2428208 0 39.2428208"></polygon>
-            <g id="Group" transform="translate(31.376953, 21.093750)" fill="#EFE2DD">
-                <polygon id="Shape" points="0.0748443164 0.0123596191 9.41837309 0.0123596191 9.41837309 2.64907837 0.0748443164 2.64907837"></polygon>
-                <polygon id="Shape" points="0.0748443164 5.61847685 9.41837309 5.61847685 9.41837309 8.2551956 0.0748443164 8.2551956"></polygon>
-                <polygon id="Shape" points="0.0748443164 11.2245942 9.41837309 11.2245942 9.41837309 13.8613129 0.0748443164 13.8613129"></polygon>
-            </g>
-            <polygon id="Shape" fill="#15CCC2" points="40.7953262 15.4999924 22.5 15.4999924 21.6204071 16.8183518 22.5 18.1367111 40.7953262 18.1367111"></polygon>
-            <polygon id="Shape" fill="#7ED8F6" points="28.8130188 34.9550629 28.8130188 21.1061096 22.5 21.1061096 20.7408142 28.0305862 22.5 34.9550629"></polygon>
-            <polygon id="Shape" fill="#6FE8D5" points="4.20467379 15.4999924 22.5 15.4999924 22.5 18.1367111 4.20467379 18.1367111"></polygon>
-            <polygon id="Shape" fill="#BEEBFA" points="4.20467379 21.1061096 22.5 21.1061096 22.5 34.9554062 4.20467379 34.9554062"></polygon>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 73 73" style="enable-background:new 0 0 73 73;" xml:space="preserve">
+
+	<title>mobile-applications/flutter</title>
+	<g id="mobile-applications/flutter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+	<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#085EB5;stroke-width:2;}
+	.st1{fill:#42A5F5;fill-opacity:0.8;}
+	.st2{fill:#0D47A1;}
+	.st3{fill:#42A5F5;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:url(#SVGID_2_);}
+</style>
+<desc>Created with Sketch.</desc>
+<g id="container" transform="translate(2.000000, 2.000000)">
+	<path id="mask" class="st0" d="M13-1h43c7.7,0,14,6.3,14,14v43c0,7.7-6.3,14-14,14H13C5.3,70-1,63.7-1,56V13C-1,5.3,5.3-1,13-1z"/>
+</g>
+<path class="st1" d="M22.5,41.4l-6.8-6.8l22.2-22.2h13.7"/>
+<path class="st1" d="M51.6,32.9H37.9L32.7,38l6.8,6.8"/>
+<path class="st2" d="M32.7,51.7l5.1,5.1h13.7l0,0l-12-12"/>
+<g transform="matrix(0.7071, -0.7071, 0.7071, 0.7071, -77.667, 98.057)">
+	
+		<rect x="110.9" y="35.6" transform="matrix(-1 2.535181e-06 -2.535181e-06 -1 231.4068 80.8991)" class="st3" width="9.7" height="9.7"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-52.904" y1="67.4651" x2="-52.904" y2="67.2197" gradientTransform="matrix(27.8597 3.889 27.8597 -3.889 -289.9668 513.4062)">
+		<stop  offset="0.2" style="stop-color:#000000;stop-opacity:0.15"/>
+		<stop  offset="0.85" style="stop-color:#616161;stop-opacity:1.000000e-02"/>
+	</linearGradient>
+	<polygon class="st4" points="110.9,45.3 120.5,45.3 120.5,46.6 110.9,46.6 	"/>
+</g>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-67.4869" y1="184.374" x2="-67.2414" y2="184.374" gradientTransform="matrix(41.4 0 0 -27.9 2826.7002 5192.2993)">
+	<stop  offset="0.2" style="stop-color:#000000;stop-opacity:0.55"/>
+	<stop  offset="0.85" style="stop-color:#616161;stop-opacity:1.000000e-02"/>
+</linearGradient>
+<path class="st5" d="M32.7,51.7l10.2-3.5l-3.3-3.3"/>
+	</g>
 </svg>
