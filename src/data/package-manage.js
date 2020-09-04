@@ -6,7 +6,7 @@ export const packagemanageCollection = {
 				{
 					name: "NPM",
 							description: {
-								text: "Learn about NPM and how it can be used to manage dependencies.",
+								text: "NPM에 대해 알아보고 NPM을 사용하여 종속성을 관리하는 방법 알아보기",
 								links: [
 									["npmjs - About npm", "https://docs.npmjs.com/about-npm/"],
 									["npmjs - Getting started", "https://docs.npmjs.com/getting-started/"],
@@ -18,7 +18,7 @@ export const packagemanageCollection = {
 						{
 							name: "Yarn",
 							description: {
-								text: "Learn about Yarn and how it can be used to manage dependencies.",
+								text: "Yarn에 대해 알아보고 종속성을 관리하는 데 Yarn을 사용하는 방법 알아보자",
 								links: [
 									["Yarnpkg - Getting Started", "https://yarnpkg.com/en/docs/getting-started"],
 									["Facebook Engineering - Yarn", "https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/"],

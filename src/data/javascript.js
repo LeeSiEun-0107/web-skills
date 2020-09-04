@@ -6,7 +6,7 @@ export const javascriptCollection = {
 				{
 					name: "syntax and basic construct",
 					description: {
-						text: "Learn the basics of Javascript and get comfortable with it's syntax and main concepts.",
+						text: "Javascript의 기본을 배우고, Javascript의 구문 및 주요 개념에 익숙해지십시오.",
 						links: [
 							["MDN - Javascript First Steps", "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps"],
 							["MDN - Javascript Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"],
@@ -18,7 +18,7 @@ export const javascriptCollection = {
 						{
 							name: "DOM Manipulation",
 							description: {
-								text: "Learn how to query HTML elements through Javascript and manipulate them.",
+								text: "Javascript를 통해 HTML 요소를 조회하고 조작하는 방법에 대해 알아보십시오.",
 								links: [
 									["MDN - Locating DOM elements using selectors", "https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors"],
 									["Supercharged - querySelector", "https://www.youtube.com/watch?v=s0vg_H9hBuU"],
@@ -28,7 +28,7 @@ export const javascriptCollection = {
 						{
 							name: "fetch",
 							description: {
-								text: "Learn how to use the fetch API to fetch data.",
+								text: "가져오기 API를 사용하여 데이터를 가져오는 방법에 대해 알아 보십시오.",
 								links: [
 									["Google Devs - Introduction to fetch", "https://developers.google.com/web/updates/2015/03/introduction-to-fetch"],
 									["Google Devs - Networking", "https://developers.google.com/training/certification/mobile-web-specialist/study-guide/networking"],
@@ -45,7 +45,7 @@ export const javascriptCollection = {
 				{
 					name: "Es6+ and modular java script",
 					description: {
-						text: "Learn how to modularize your code into ES6 modules using the export and import keywords.",
+						text: "내보내기 및 가져오기 키워드를 사용하여 코드를 ES6 모듈로 모듈화하는 방법에 대해 배우십시오.",
 						links: [
 							["MDN - Export", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export"],
 							["MDN - Import", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import"],
@@ -57,7 +57,7 @@ export const javascriptCollection = {
 						{
 							name: "shodow DOM",
 							description: {
-								text: "Learn how to encapsulate your CSS using Shadow DOM.",
+								text: "Shadow DOM을 사용하여 CSS를 캡슐화하는 방법에 대해 배우십시오.",
 						links: [
 							["Google Devs - Shadow DOM", "https://developers.google.com/web/fundamentals/web-components/shadowdom"],
 							["MDN - Using Shadow DOM", "https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM"],

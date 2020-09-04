@@ -6,7 +6,7 @@ export const sccstructureCollection = {
 				{
 					name: "lit-element",
 					description: {
-						text: "Learn how to use lit-element for creating fast, lightweight web components.",
+						text: "빛 요소를 사용하여 빠르고 가벼운 웹 구성 요소를 만드는 방법 알아보기",
 						links: [
 							["lit-element", "https://lit-element.polymer-project.org/"],
 							["Google Devs - Lightning-fast templates", "https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html"],
@@ -18,7 +18,7 @@ export const sccstructureCollection = {
 				{
 					name: "Vue",
 					description: {
-						text: "Learn about Vue and how you can use it for building web apps.",
+						text: "Vue에 대해 알아보고 웹 앱을 만드는 데 Vue를 사용하는 방법에 대해 알아보십시오.",
 						links: [
 							["Vue", "https://vuejs.org/"],
 							["Vue - CLI", "https://cli.vuejs.org/"],
@@ -29,7 +29,7 @@ export const sccstructureCollection = {
 				{
 					name: "React",
 					description: {
-						text: "Learn about React and how you can use it for building web apps.",
+						text: "리액션에 대해 알아보고 웹 앱을 만드는 데 리액션을 사용하는 방법에 대해 알아보십시오.",
 						links: [
 							["React", "https://reactjs.org/"],
 							["web.dev - React", "https://web.dev/react"],
@@ -40,7 +40,7 @@ export const sccstructureCollection = {
 				{
 					name: "Angular",
 					description: {
-						text: "Learn about Angular and how you can use it for building web apps.",
+						text: "각도 및 웹 앱을 만드는 데 사용하는 방법에 대해 알아보십시오.",
 						links: [
 							["Angular", "https://angular.io/"],
 							["web.dev - Angular", "https://web.dev/angular"],
@@ -51,7 +51,7 @@ export const sccstructureCollection = {
 				{
 					name: "Svelte",
 					description: {
-						text: "Learn about Svelte and how it can convert your component into highly efficient imperative code.",
+						text: "Svelte에 대해 알아보고 이 제품이 구성 요소를 매우 효율적인 명령 코드로 변환하는 방법에 대해 알아보십시오.",
 						links: [
 							["Svelte", "https://svelte.dev/"],
 							["Github - Svelte FAQ", "https://github.com/sveltejs/svelte/wiki/FAQ"],
@@ -62,7 +62,7 @@ export const sccstructureCollection = {
 				{
 					name: "Stencil",
 					description: {
-						text: "Learn how Stencil can be used for generating small, fast web components.",
+						text: "스텐실을 사용하여 작고 빠른 웹 구성요소를 생성하는 방법을 알아보십시오.",
 						links: [
 							["Stencil", "https://stenciljs.com/"],
 							["Alligator - Getting Started With Stencil", "https://alligator.io/stencil/getting-started/"],

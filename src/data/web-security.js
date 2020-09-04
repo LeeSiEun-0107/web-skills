@@ -6,7 +6,7 @@ export const websecurityCollection = {
 				{
 					name: "HTTPS",
 					description: {
-						text: "Learn about HTTPS and why a website should always be protected with HTTPS.",
+						text: "HTTPS에 대해 알아보고 웹 사이트를 항상 HTTPS로 보호해야 하는 이유에 대해 알아보십시오..",
 						links: [
 							["Google Devs - Why HTTPS Matters", "https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https"],
 							["Google Devs - Enabling HTTPS on Your Servers", "https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https"],
@@ -18,7 +18,7 @@ export const websecurityCollection = {
 						{
 							name: "Content Security Policy",
 							description: {
-								text: "Learn about content security policy and how it can help to detect and mitigate certain types of attacks.",
+								text: "콘텐츠 보안 정책에 대해 알아보고 특정 유형의 공격을 탐지 및 완화하는 방법에 대해 알아보십시오.",
 								links: [
 									["MDN - Content Security Policy (CSP)", "https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP"],
 									["Google Devs - CSP", "https://developers.google.com/web/fundamentals/security/csp"]
@@ -30,7 +30,7 @@ export const websecurityCollection = {
 				{
 					name: "cors",
 					description: {
-						text: "Learn about typography and how to describe fonts.",
+						text: "타이포그래피와 글꼴을 설명하는 방법에 대해 알아보십시오.",
 						links: [
 							["MDN - cors", "https://developer.mozilla.org/ko/docs/Web/HTTP/CORS"],
 							]
@@ -39,7 +39,7 @@ export const websecurityCollection = {
 						{
 							name: "OWASP",
 					description: {
-						text: "Learn about the OWASP organization and how they help with web application security.",
+						text: "OWASP 조직에 대해 알아보고 OWASP 조직이 웹 애플리케이션 보안을 어떻게 지원하는지 알아보십시오.",
 						links: [
 							["Wikipedia - OWASP", "https://en.wikipedia.org/wiki/OWASP"],
 							["OWASP - About", "https://www.owasp.org/index.php/About_The_Open_Web_Application_Security_Project"],

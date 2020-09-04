@@ -7,7 +7,7 @@ export const versionmanagementCollection = {
 				{
 					name: "Github",
 							description: {
-								text: "Learn how to use Github.",
+								text: "깃허브 사용법 배우기",
 								links: [
 									["What is GitHub?", "https://guides.github.com/activities/hello-world/"],
 									["GitHub Learning Lab", "https://lab.github.com/"],
@@ -18,7 +18,7 @@ export const versionmanagementCollection = {
 						{
 							name: "Git",
 					description: {
-						text: "Learn about git and how it is used for version control.",
+						text: "git에 대해 알아보고 git이 버전 제어에 어떻게 사용되는지 알아보십시오.",
 						links: [
 							["Learn Git Branching", "https://learngitbranching.js.org/"],
 							["Git Handbook", "https://guides.github.com/introduction/git-handbook/"],
@@ -47,7 +47,7 @@ export const versionmanagementCollection = {
 						{
 							name: "Bitbucket",
 							description: {
-								text: "Learn how to use Bitbucket.",
+								text: "bitbucket 사용하는 법 배우기",
 								links: [
 									["Wikipedia - Bitbucket", "https://en.wikipedia.org/wiki/Bitbucket"],
 									["Tutorial: Learn Bitbucket with Git", "https://confluence.atlassian.com/bitbucket/tutorial-learn-bitbucket-with-git-759857287.html"],

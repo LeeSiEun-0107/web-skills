@@ -6,7 +6,7 @@ export const internetCollection = {
 				{
 					name: "How does the internet work",
 					description: {
-						text: "Learn the basics of how the internet works.",
+						text: "인터넷의 작동 원리에 대해 알아보세요.",
 						links: [
 							["MDN - How does the Internet work?", "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work"],
 							["Youtube - How the Internet Works in 5 Minutes", "https://www.youtube.com/watch?v=7_LPdttKXPc"],
@@ -19,7 +19,7 @@ export const internetCollection = {
 				{
 					name: "what is http",
 					description: {
-						text: "Learn how data is distributed through the HTTP protocol.",
+						text: "HTTP 프로토콜을 통해 데이터가 배포되는 방법에 대해 알아보십시오.",
 						links: [
 							["MDN - HTTP", "https://developer.mozilla.org/en-US/docs/Web/HTTP"],
 							["MDN - HTTP Glossary", "https://developer.mozilla.org/en-US/docs/Glossary/HTTP"],
@@ -31,7 +31,7 @@ export const internetCollection = {
 				{
 					name: "Browsers and how they work",
 					description: {
-						text: "Learn about the browser and how it works",
+						text: "브라우저 및 작동 방식에 대해 알아보기",
 						links: [
 							["HTML5 Rocks - How Browsers Work", "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"],
 							["Demystifying Browsers", "https://textslashplain.com/2020/02/09/demystifying-browsers/"],
@@ -42,7 +42,7 @@ export const internetCollection = {
 						{
 							name: "Dns and how it works",
 							description: {
-								text: "Learn about the DNS and how it works",
+								text: "DNS 및 작동 방식에 대해 알아보기",
 								links: [
 									["Wikipedia - learn about the DNS", "https://en.wikipedia.org/wiki/Domain_Name_System"],
 									["DNS and how it works", "https://ijbgo.tistory.com/27"]
@@ -52,7 +52,7 @@ export const internetCollection = {
 						{
 							name: "what is domain name",
 							description: {
-								text: "Learn about the Domain name's how it works",
+								text: "도메인 이름의 작동 방식에 대해 알아보기",
 								links: [
 									["Wikipedia - learn about the Domain name", "https://en.wikipedia.org/wiki/Domain_name"],
 								]
@@ -61,7 +61,7 @@ export const internetCollection = {
 								{
 									name: "what is hosting",
 									description: {
-										text: "Learn about the hosting ?",
+										text: "호스팅에 대해 알아보기",
 										links: [
 											["Wikipedia - learn about the hosting", "https://en.wikipedia.org/wiki/HostingZ"],
 										]

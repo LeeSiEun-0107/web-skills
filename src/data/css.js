@@ -7,7 +7,7 @@ export const cssCollection = {
 				{
 					name: "Learn the basics",
 					description: {
-						text: "Learn the basics of CSS and get comfortable with it's syntax and main concepts.",
+						text: "CSS의 기본을 배우고 CSS의 구문 및 주요 개념 배우기.",
 						links: [
 							["MDN - CSS Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"],
 							["W3Schools - CSS Tutorial", "https://www.w3schools.com/css/default.asp"],
@@ -22,7 +22,7 @@ export const cssCollection = {
 				{
 					name: "making layout",
 					description: {
-						text: "Learn the different layout types for web.",
+						text: "웹에 대한 다양한 레이아웃 유형 알아보기",
 						links: [
 							["Chrome Dev - Basic Layout", "https://developers.google.com/training/certification/mobile-web-specialist/study-guide/basic-layout"],
 							["W3Schools - CSS Website Layout", "https://www.w3schools.com/css/css_website_layout.asp"],
@@ -34,7 +34,7 @@ export const cssCollection = {
 						{
 							name: "Relative Units and Media Queries",
 							description: {
-								text: "Learn how to use relative units for properties such as font sizes and spacing. Learn how use media queries to build responsive layout.",
+								text: "글꼴 크기 및 간격과 같은 속성에 상대 단위를 사용하는 방법에 대해 배우십시오. 미디어 쿼리를 사용하여 응답성이 높은 레이아웃을 구축하는 방법에 대해 알아보십시오.",
 								links: [
 									["MDN - Responsive design", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"],
 									["Responsive Web Design Fundamentals by Google", "https://www.udacity.com/course/responsive-web-design-fundamentals--ud893"],
