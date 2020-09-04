@@ -1,5 +1,5 @@
 export const ssrCollection = {
-	 	name: "ssr",
+	 	name: "ssr",//ssr
      	areas: [
      		{
      		    name: "React.js",
