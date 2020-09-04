@@ -105,7 +105,7 @@ export class App extends LitElement {
                 }
 
                 #main_title .title1{
-					padding: var(--spacing-xxxl) 0 0 var(--spacing-xxxl);
+					padding: var(--spacing-xxxl) var(--spacing-xxxl) 0 var(--spacing-xxxl);
 
 					font-size: 80px;
                 }
@@ -123,6 +123,7 @@ export class App extends LitElement {
                 .info1{
                     padding: var(--spacing-xxl) var(--spacing-xxxl) 0 var(--spacing-xxxl);
                     font-size: 25px;
+                    line-height:2em;
                 }
 
                 .title4{
@@ -758,7 +759,8 @@ export class App extends LitElement {
 			<h1 class="title1">Front-End Developer Roadmap</h1>
 			<h1 class="title2">by 이시은, 전제상, 홍시은</h1>
 			<h1 class="title3">What They Do?</h1>
-            <h1 class="info1">프론트엔드 개발자 소개 요약해서 적어주시면 될것 같아요</h1>
+            <h1 class="info1">프론트엔드 개발자는 클라이언트의 업무를 담당하며 레이아웃 설정이나 디자인 사용자 인터페이스를 담당한다.
+            기본적으로 html, css, javascript 학습이 필요하며 그에 더하여 angular, react, vue 등 여러 프레임워크들의 학습이 필요하다. 스터디 로드맵을 따라 기초부터 차근차근 공부를 해보도록 하자.</h1>
             <h1 class="title4">FE Study RoadMap</h1>
 			</div>
 
